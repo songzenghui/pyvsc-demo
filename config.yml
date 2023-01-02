@@ -1,0 +1,3 @@
+RxTimestamp.ns:
+  check_values:
+    - "10101"
